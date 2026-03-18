@@ -1,9 +1,0 @@
-=== 🇷🇺 RUSSIA (FAST) ===
-https://raw.githubusercontent.com/wasiIek/READY/mainru.txt
-
-=== 🇷🇺 RUSSIA (ALL) ===
-
-=== 🇪🇺 EUROPE (FAST) ===
-https://raw.githubusercontent.com/wasiIek/READY/mainmy_euro_part1.txt
-
-=== 🇪🇺 EUROPE (ALL) ===
